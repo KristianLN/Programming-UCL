@@ -9,3 +9,5 @@ Second Assigment: Pure Javascript - Understanding the Existing Electric Vechicle
 Third Assigment: Combination of Python and Javascript - Join Forces in a Basic Example
 
 Final Assigment: Combination of Python and Javascript - A More Advanced Example of the Two Languages Joining Forces
+
+Over all mark: A+
